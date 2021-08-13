@@ -30,11 +30,13 @@ This crest is bestowed upon all the Wolf Riders. It represents the completion of
 <div>
 <img align="right" width="282" height="412" src="./Images/mentor.jpg">
 
-Lucian Warwick, is a Rider from the Warwick clan. Up untill he was 19, he lived peacefully deep in the forest, as a Rider in training. Every day he'd wake up and train with his mentor, learning the ways of tracking, hunting and killing. Upon graduation he was free to do whatever he wanted. (TBC, Joins war, barely gets out, his Mentor sacrifices himself)
+Lucian Warwick, is a Rider from the Warwick clan. Up untill he was 19, he lived peacefully deep in the forest, as a Rider in training. Every day he'd wake up and train with his mentor, learning the ways of tracking, hunting and killing. Upon graduation he was free to do whatever he wanted. (TBC --> After a few years Joins war, barely gets out, his Mentor sacrifices himself)
 
+After escaping the war, Lucian lost something, a part of his soul. He no longer felt worth of the title Wolf Rider, and settled down in a small town, far, far away from where he used to call home.
 
+He picked up blacksmithing, and creating guns, something he saw others do in his clan however on a much simplier level. Years went by, till he noticed a tall skinny fellow wandering the streets. This guy seemed to have never seen a town before or was lost, he wasn't sure. 
 
-
+Everyday after that, this guy watched Lucian work. Working with metal, creating weapons, and armor. After a while he tried talking to this guy, however it seemed he couldn't talk, so he continued working. (TBC --> After years Valkiiren learns to speak common, Lucian teaches him stuff, much more time later (10 years), as Valkiiren is leaving for a trip (campaign stuff), Lucian gifts him with a gun)
 
 </div>
 
