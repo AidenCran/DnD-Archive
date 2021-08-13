@@ -26,7 +26,7 @@ This gun was crafted by Valkiiren's Mentor as a gift to Valkiiren. It's crafted 
 <p align="center">
 <img  width="728" height="401" src="./Images/MechWolf.jpg">
 </p>
-Through months of Tinkering with various types of magic and metals, identifying their strengths, weaknesses, opportunities for improvement, Valkiiren has created something unique. Valkiiren has discovered, by imbuing metals with a finely tuned magic similar to the type used to create his Homunculus servant, he create a more powerful beast.
+Through months of Tinkering with various types of magic and metals, identifying their strengths, weaknesses, opportunities for improvement, Valkiiren has created something unique. Valkiiren has discovered, by imbuing metals with a finely tuned magic similar to the type used to create his Homunculus servant, he creates a more powerful beast.
 </div>
 
 <br><br>
