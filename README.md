@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# **Valkiiren's Story**
+<div>
+<img align="right" width="299" height="300" src="./Images/ValkiirenImg.png">
 
-You can use the [editor on GitHub](https://github.com/AidenCran/DnD-Archive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On a day-to-day basis, Valkiiren wears a large leather trench coat with a large emblem on the back centre, usually covered by a backpack and a shield. This emblem is his mentor’s family crest (The Warwicks).
+Under his trench coat, on his left is a leather holster, with a midnight black revolver being held within’ it. Unlike most revolvers, this one seems to have a triple barrel, and for the magically inclined, enchanted.
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br><br><br><br><br><br><br><br>
 
-```markdown
-Syntax highlighted code block
+# Family Crest
+<div>
+<img align="right" width="309" height="408" src="./Images/Crest.png">
+On a day-to-day basis, Valkiiren wears a large leather trench coat with a large emblem on the back centre, usually covered by a backpack and a shield. This emblem is his mentor’s family crest (The Warwicks).
+Under his trench coat, on his left is a leather holster, with a midnight black revolver being held within’ it. Unlike most revolvers, this one seems to have a triple barrel, and for the magically inclined, enchanted.
+</div>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AidenCran/DnD-Archive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
